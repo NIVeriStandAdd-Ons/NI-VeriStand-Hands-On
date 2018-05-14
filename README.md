@@ -1,3 +1,5 @@
+**NOTICE: This repository has been archived, and will no longer be maintained or accept pull requests.**
+
 ## NI VeriStand Hands On ##
 
 **NI VeriStand Hands On** is an exercise for new users to become acquainted with the program. This exercise involves a PXI HIL system simulating a 3 degrees of freedom helicopter and a sbRIO controller that accepts position set-points.
